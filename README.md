@@ -1,4 +1,4 @@
-# LoRaMed: QLoRA Fine Tuning for Medical QA
+# QLoRaMed: QLoRA Fine Tuning for Medical QA
 
 Training repository for fine-tuning Gemma-2B on PubMedQA using QLoRA.
 
